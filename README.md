@@ -71,7 +71,7 @@ Tkinter + Matplotlib
 
 MIT License - 教育・研究目的に限り自由に使用・改変・配布可
 
-Snowbellsan × Grok (xAI) × ChatGPT (OpenAI) × Gemini (Google)
+Snowbellsan × Grok (xAI) × ChatGPT (OpenAI) × Gemini (Google)　
 連絡先：habukumohakirabu@gmail.com
 
 共同開発：AI安全教育推進プロジェクト
