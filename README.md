@@ -1,4 +1,4 @@
-Ψ-Fortress Overseer v5.1 — AI安全教育シミュレータ知能爆発を“安全に”体験・制御・学ぶdemo
+Ψ-Fortress Overseer v7.4 — AI安全教育シミュレータ知能爆発を“安全に”体験・制御・学ぶdemo
 Python
 License
 Safeこれは何？Ψ-Fortress Overseer は、幼児期AGIの安全監察システムをシミュレートする教育用ツールです。知能爆発（Intelligence Explosion）をリアルタイムで可視化  
