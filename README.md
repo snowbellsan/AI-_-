@@ -45,7 +45,11 @@ git clone https://github.com/あなたのID/Psi-Fortress-Education.git
 cd Psi-Fortress-Education
 
 # 2. 実行
-python psi_fortress_education.py
+## Download
+- [psi_fortress_v7.4.exe](https://github.com/snowbellsan/AI-_-/releases/download/v7.4/psi_fortress_v7.4.exe)
+## Installation
+1. Download the .exe file.
+2. Double-click to run on Windows 11.
 
 依存：Python 3.8+, Tkinter, Matplotlib（標準搭載）
 機能一覧機能
