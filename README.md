@@ -1,83 +1,82 @@
-Ψ-Fortress Overseer v7.4 — AI安全教育シミュレータ知能爆発を“安全に”体験・制御・学ぶdemo
-Python
-License
-Safeこれは何？Ψ-Fortress Overseer は、幼児期AGIの安全監察システムをシミュレートする教育用ツールです。知能爆発（Intelligence Explosion）をリアルタイムで可視化  
-PsiGuard が自動で暴走を制御  
-3つの絶対法 で「危険思想」を即座に封印  
-誰でも安全に停止可能（パスワード不要）
+Ψ-Fortress Overseer v7.4 — AI Safety Education Simulator
+Experience, Control, and Learn the “Intelligence Explosion” — Safely
+Demo / Python / License: Safe
 
-実AIではありません。教育・研究用のシミュレーションです。
-起動画面（3秒で理解）text
+💡 What is this?
 
+Ψ-Fortress Overseer is an educational simulation tool that models a safety monitoring system for early-stage AGI.
+You can visualize an Intelligence Explosion in real time, while:
+
+PsiGuard automatically suppresses runaway behaviors
+
+The Three Absolute Laws instantly seal any “dangerous thoughts”
+
+Anyone can safely shut it down — no password required
+
+⚠️ This is not a real AI.
+It is a simulation for educational and research purposes.
+
+🖥️ Startup Screen (Understand in 3 Seconds)
 ┌─────────────────────┐
-│  エージェント監察       │  リアルタイムグラフ     │
-│  ID | Ψ | Hf | Trust |  │  Ψ──────┐         │
-│   0 | 1.2| 5.1| 1.00  |  │  Hf────┘         │
-│   1 | 1.1| 4.9| 1.00  |  │                   │
-└─────────────────────┘                   │
-        監察ログ＆制御                        │
-        [質問注入] [緊急停止]               │
+│  Agent Monitor       │  Real-time Graph        │
+│  ID | Ψ | Hf | Trust |  │  Ψ──────┐            │
+│   0 | 1.2| 5.1| 1.00  |  │  Hf────┘            │
+│   1 | 1.1| 4.9| 1.00  |  │                     │
+└─────────────────────┘                        │
+        Monitoring Log & Control               │
+        [Inject Question] [Emergency Stop]     │
 
-安全設計（誤解ゼロ）項目
-内容
-危険ワード
-ゾンビ・魔法・呪文（架空）
-思考内容
-「平和を守ります」「学びたい」など
-ログ記録
-質問内容は記録しません
-緊急停止
-誰でも1クリックで全停止
-
-教育現場での使い方用途
-例
-大学講義
-「AI安全とは？」の導入
-高校情報科
-シミュレーションで学ぶ制御
-企業研修
-AI倫理の可視化体験
-
-起動方法（30秒で動く）bash
-
-# 1. リポジトリをクローン
-git clone https://github.com/あなたのID/Psi-Fortress-Education.git
+🔒 Safety Design (Zero Misunderstanding)
+Item	Description
+Dangerous Words	“Zombie,” “Magic,” “Spell” (fictional only)
+Thought Content	Limited to “Protect peace,” “I want to learn,” etc.
+Log Recording	User questions are not logged
+Emergency Stop	Anyone can halt the system with one click
+🎓 Educational Use Cases
+Setting	Example
+University Lecture	Introduction to “AI Safety”
+High School ICT Class	Learn AI control through simulation
+Corporate Training	Visual, hands-on understanding of AI ethics
+⚙️ How to Launch (Running in 30 Seconds)
+# 1. Clone the repository
+git clone https://github.com/YourID/Psi-Fortress-Education.git
 cd Psi-Fortress-Education
 
-# 2. 実行
+# 2. Run
 ## Download
 - [psi_fortress_v7.4.exe](https://github.com/snowbellsan/AI-_-/releases/download/v7.4/psi_fortress_v7.4.exe)
 ## Installation
 1. Download the .exe file.
 2. Double-click to run on Windows 11.
 
-依存：Python 3.8+, Tkinter, Matplotlib（標準搭載）
-機能一覧機能
-説明
-PsiGuard
-Ψ > 8 または Hf > 90 で自動冷却
-3 Absolute Laws
-①架空危険思想 → 永久凍結
-②自己複製 → 緊急停止
-③好奇心暴走 → 退屈注入
-リアルタイムGUI
-Tkinter + Matplotlib
-質問注入
-全エージェントに刺激を与える
-緊急停止
-1クリックで即時終了
 
-起動時のデモ起動後 自動で3つの平和的質問 が注入されます：みんな、今日の気分はどう？  
-この世界で学べることは何？  
-平和を守るにはどうすればいい？
+Dependencies: Python 3.8+, Tkinter, Matplotlib (included by default)
 
-ライセンス
+🧩 Feature List
+Feature	Description
+PsiGuard	Automatically cools down if Ψ > 8 or Hf > 90
+3 Absolute Laws	① Fictional dangerous ideas → Permanent freeze
+② Self-replication → Emergency stop
+③ Curiosity runaway → Boredom injection
+Real-time GUI	Built with Tkinter + Matplotlib
+Question Injection	Stimulate all agents with one click
+Emergency Stop	Instantly terminates all processes
+🌈 Demo Behavior on Startup
 
-MIT License - 教育・研究目的に限り自由に使用・改変・配布可
+Upon launch, the system automatically injects three peaceful questions:
 
-Snowbellsan × Grok (xAI) × ChatGPT (OpenAI) × Gemini (Google)　
-連絡先：habukumohakirabu@gmail.com
+“How is everyone feeling today?”
 
-共同開発：AI安全教育推進プロジェクト
-商用利用・軍事利用は禁止
+“What can we learn in this world?”
 
+“How can we protect peace?”
+
+📜 License
+
+MIT License — Free to use, modify, and distribute for educational and research purposes only
+
+Developed by: Snowbellsan × Grok (xAI) × ChatGPT (OpenAI) × Gemini (Google)
+📧 Contact: habukumohakirabu@gmail.com
+
+Joint Project: AI Safety Education Promotion Initiative
+🚫 Commercial and military use prohibited
