@@ -46,7 +46,7 @@ cd Psi-Fortress-Education
 ## Download
 
 - Japanese Version 
-- [psi_fortress_v7.4.exe](https://github.com/snowbellsan/AI-_-/releases/download/v7.4/psi_fortress_v7.4.exe)
+- [psi_fortress_v7.4.exe](https://github.com/snowbellsan/AI-_-/blob/main/psi_fortress_v7.4.exe)
 - English Version 
 - [psi_fortress_English.exe](https://github.com/snowbellsan/AI-_-/blob/main/psi_fortress_English.exe)
 
