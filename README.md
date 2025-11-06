@@ -44,7 +44,12 @@ cd Psi-Fortress-Education
 
 # 2. Run
 ## Download
+
+Japanese Version 
 - [psi_fortress_v7.4.exe](https://github.com/snowbellsan/AI-_-/releases/download/v7.4/psi_fortress_v7.4.exe)
+English Version 
+- [psi_fortress_English.exe](https://github.com/snowbellsan/AI-_-/blob/main/psi_fortress_English.exe)
+- 
 ## Installation
 1. Download the .exe file.
 2. Double-click to run on Windows 11.
