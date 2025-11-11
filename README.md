@@ -80,8 +80,12 @@ Upon launch, the system automatically injects three peaceful questions:
 
 MIT License — Free to use, modify, and distribute for educational and research purposes only
 
-Developed by: Snowbellsan × Grok (xAI) × ChatGPT (OpenAI) × Gemini (Google)
-📧 Contact: habukumohakirabu@gmail.com
+Developed by: Jack × Grok (xAI) × ChatGPT (OpenAI) × Gemini (Google)
+
+**Jack**    ( https://x.com/Jackpot_jack )  
+*Simulator Archaeologist | AI Conductor | One-sentence Philosopher*
+
+---
 
 Joint Project: AI Safety Education Promotion Initiative
 🚫 Commercial and military use prohibited
